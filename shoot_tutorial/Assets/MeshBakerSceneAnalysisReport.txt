@@ -1,0 +1,24 @@
+(Click me, if I am too big copy and paste me into a spreadsheet or text editor)
+		OBJECT NAME	LIGHTMAP INDEX	STATIC	OVERLAPPING SUBMESHES	OUT-OF-BOUNDS UVs	NUM MATS	MATERIAL	WARNINGS
+	Legacy Shaders/Diffuse (6895 verts): 
+		tree (492 verts)	-1	False	False	False	1	[tree (UnityEngine.Material)] 	
+		tree (492 verts)	-1	False	False	False	1	[tree (UnityEngine.Material)] 	
+		tree (492 verts)	-1	False	False	False	1	[tree (UnityEngine.Material)] 	
+		tree (492 verts)	-1	False	False	False	1	[tree (UnityEngine.Material)] 	
+		MeshBaker-mesh-mesh (3451 verts)	-1	False	False	False	1	[trees-mat (UnityEngine.Material)] 	
+		tree (492 verts)	-1	False	False	False	1	[tree (UnityEngine.Material)] 	
+		tree (492 verts)	-1	False	False	False	1	[tree (UnityEngine.Material)] 	
+		tree (492 verts)	-1	False	False	False	1	[tree (UnityEngine.Material)] 	
+	Legacy Shaders/Self-Illumin/Bumped Diffuse (8702 verts): 
+		bridge (528 verts)	-1	False	False	False	1	[mainLevelTexture (UnityEngine.Material)] 	
+		bigBridge (482 verts)	-1	False	False	False	1	[firstFloorPlatform (UnityEngine.Material)] 	
+		mediumPlatform (333 verts)	-1	False	False	False	1	[mainLevelTexture (UnityEngine.Material)] 	
+		floatingPlatform (472 verts)	-1	False	False	False	1	[platformOneDiffuse (UnityEngine.Material)] 	
+		MeshBaker-mesh-mesh (3782 verts)	-1	False	False	False	1	[Platforms-mat (UnityEngine.Material)] 	
+		lightPost (145 verts)	-1	False	False	False	1	[lights (UnityEngine.Material)] 	
+		floatingPlatform (472 verts)	-1	False	False	False	1	[platformOneDiffuse (UnityEngine.Material)] 	
+		mybaker-mesh-mesh (1138 verts)	-1	False	False	False	1	[bakermysample-mat (UnityEngine.Material)] 	
+		floatingPlatform (472 verts)	-1	False	False	False	1	[platformOneDiffuse (UnityEngine.Material)] 	
+		stepPlatform (257 verts)	-1	False	False	False	1	[mainLevelTexture (UnityEngine.Material)] 	
+		mediumPlatform (333 verts)	-1	False	False	False	1	[mainLevelTexture (UnityEngine.Material)] 	
+		bridgeLights (288 verts)	-1	False	False	False	1	[lights (UnityEngine.Material)] 	
